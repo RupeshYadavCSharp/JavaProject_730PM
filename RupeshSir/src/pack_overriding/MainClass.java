@@ -1,13 +1,24 @@
 package pack_overriding;
 
+import java.util.Scanner;
+
 public class MainClass
 {
     public static void main(String[] args) {
-        Class2 class2 = new Class2();
-        class2.show();
 
-        Class1 class1 = class2;
-        class1.show();
+        Scanner scan = new Scanner(System.in);
+
+        String str = scan.nextLine(); //she sells sea shells
+
+
+       
+
+
+
+
+
+
+
 
     }
 }
