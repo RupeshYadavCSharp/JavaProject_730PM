@@ -8,7 +8,10 @@ public class MainClass
 
         Scanner scan = new Scanner(System.in);
 
+
+
         String str = scan.nextLine(); //she sells sea shells
+
 
 
        
